@@ -1,0 +1,6 @@
+C:\Users\yigit\source\repos\UML_2\UML_2\bin\Debug\UML_2.exe.config
+C:\Users\yigit\source\repos\UML_2\UML_2\bin\Debug\UML_2.exe
+C:\Users\yigit\source\repos\UML_2\UML_2\bin\Debug\UML_2.pdb
+C:\Users\yigit\source\repos\UML_2\UML_2\obj\Debug\UML_2.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\UML_2\UML_2\obj\Debug\UML_2.exe
+C:\Users\yigit\source\repos\UML_2\UML_2\obj\Debug\UML_2.pdb
